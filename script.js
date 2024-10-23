@@ -1,1 +1,2 @@
-alert(windowHeight, windowWidth);
+alert(window.innerHeight);
+alert(window.innerWidth);
